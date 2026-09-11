@@ -1,14 +1,14 @@
-group = "app.template"
+group = "com.bmbteam"
 
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
+        name = "BMB Team Patches"
         description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        source = "git@github.com:DarkBatmanInc/morphe-bmbstore-update-check-patch.git"
+        author = "BMB Team"
+        contact = "N/A"
+        website = "N/A"
         license = "GPLv3"
     }
 }

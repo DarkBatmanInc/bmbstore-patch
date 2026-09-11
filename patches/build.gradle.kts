@@ -5,7 +5,7 @@ patches {
     about {
         name = "BMB Team Patches"
         description = "Patches for apps I like"
-        source = "git@github.com:DarkBatmanInc/morphe-bmbstore-update-check-patch.git"
+        source = "git@github.com:DarkBatmanInc/bmbstore-patch.git"
         author = "BMB Team"
         contact = "N/A"
         website = "N/A"
